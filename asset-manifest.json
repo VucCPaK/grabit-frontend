@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/VucCPaK/grabit-frontend/static/css/main.8ef6121c.css",
+    "main.js": "/VucCPaK/grabit-frontend/static/js/main.1070d05f.js",
+    "static/js/453.76c7b83f.chunk.js": "/VucCPaK/grabit-frontend/static/js/453.76c7b83f.chunk.js",
+    "static/media/grabit_background.jpg": "/VucCPaK/grabit-frontend/static/media/grabit_background.c5b050794777ef7b5e96.jpg",
+    "static/media/grabit_logo.svg": "/VucCPaK/grabit-frontend/static/media/grabit_logo.28ae84e5769115745fe79ce46dfd09f5.svg",
+    "index.html": "/VucCPaK/grabit-frontend/index.html",
+    "main.8ef6121c.css.map": "/VucCPaK/grabit-frontend/static/css/main.8ef6121c.css.map",
+    "main.1070d05f.js.map": "/VucCPaK/grabit-frontend/static/js/main.1070d05f.js.map",
+    "453.76c7b83f.chunk.js.map": "/VucCPaK/grabit-frontend/static/js/453.76c7b83f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef6121c.css",
+    "static/js/main.1070d05f.js"
+  ]
+}

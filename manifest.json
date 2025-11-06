@@ -1,0 +1,21 @@
+{
+  "short_name": "GrabIt ESports",
+  "name": "GrabIt ESports",
+  "icons": [
+    {
+      "src": "/icons/grabit_logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/grabit_logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "description": "Platform for competitive eSports tournaments",
+  "display": "standalone",
+  "theme_color": "#ff9500",
+  "background_color": "#0f0f0f"
+}
