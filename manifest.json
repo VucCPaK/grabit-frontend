@@ -1,21 +1,23 @@
 {
-  "short_name": "GrabIt ESports",
-  "name": "GrabIt ESports",
+  "name": "Grab·It ESports - CS:GO Tournaments",
+  "short_name": "GrabIt",
+  "description": "Platform for competitive CS:GO tournaments",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#ff9500",
   "icons": [
     {
-      "src": "/icons/grabit_logo_192.png",
+      "src": "/grabit_logo_192.png",
+      "sizes": "192x192",
       "type": "image/png",
-      "sizes": "192x192"
+      "purpose": "any maskable"
     },
     {
-      "src": "/icons/grabit_logo_512.png",
+      "src": "/grabit_logo_512.png",
+      "sizes": "512x512",
       "type": "image/png",
-      "sizes": "512x512"
+      "purpose": "any maskable"
     }
-  ],
-  "start_url": ".",
-  "description": "Platform for competitive eSports tournaments",
-  "display": "standalone",
-  "theme_color": "#ff9500",
-  "background_color": "#0f0f0f"
+  ]
 }
