@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/grabit-frontend/static/css/main.420f3d0c.css",
-    "main.js": "/grabit-frontend/static/js/main.97f86f79.js",
+    "main.css": "/grabit-frontend/static/css/main.57bc540e.css",
+    "main.js": "/grabit-frontend/static/js/main.be43b446.js",
     "static/js/453.4e9999d9.chunk.js": "/grabit-frontend/static/js/453.4e9999d9.chunk.js",
     "static/media/grabit_background.jpg": "/grabit-frontend/static/media/grabit_background.c5b050794777ef7b5e96.jpg",
     "static/media/grabit_logo.svg": "/grabit-frontend/static/media/grabit_logo.dbebf6e74cce1c6bbd084a2b4f7feb8e.svg",
     "index.html": "/grabit-frontend/index.html",
-    "main.420f3d0c.css.map": "/grabit-frontend/static/css/main.420f3d0c.css.map",
-    "main.97f86f79.js.map": "/grabit-frontend/static/js/main.97f86f79.js.map",
+    "main.57bc540e.css.map": "/grabit-frontend/static/css/main.57bc540e.css.map",
+    "main.be43b446.js.map": "/grabit-frontend/static/js/main.be43b446.js.map",
     "453.4e9999d9.chunk.js.map": "/grabit-frontend/static/js/453.4e9999d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.420f3d0c.css",
-    "static/js/main.97f86f79.js"
+    "static/css/main.57bc540e.css",
+    "static/js/main.be43b446.js"
   ]
 }
