@@ -10,7 +10,7 @@ export const socialLinks = [
     },
     {
         name: 'Faceit',
-        url: 'https://www.faceit.com/en/organizers/your-org-id',
+        url: 'https://www.faceit.com/ru/organizers/a1e79b09-7c51-4f52-a18e-3ae699606581/GrabIt%20eSports',
         icon: SiFaceit
     },
     {
