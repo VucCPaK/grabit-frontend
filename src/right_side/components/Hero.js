@@ -5,7 +5,7 @@ function Hero({ t, language }) {
             case 'en':
                 return 'text-xl md:text-2xl';
             case 'ru':
-                return 'text-lg md:text-xl';
+                return 'text-lg md:text-2xl';
             case 'ua':
                 return 'text-xl md:text-2xl';
             default:
