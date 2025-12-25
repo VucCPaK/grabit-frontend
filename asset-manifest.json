@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/grabit-frontend/static/css/main.6810f52f.css",
-    "main.js": "/grabit-frontend/static/js/main.c26f4418.js",
+    "main.js": "/grabit-frontend/static/js/main.6689029b.js",
     "static/js/453.4e9999d9.chunk.js": "/grabit-frontend/static/js/453.4e9999d9.chunk.js",
     "static/media/grabit_background.jpg": "/grabit-frontend/static/media/grabit_background.c5b050794777ef7b5e96.jpg",
     "static/media/grabit_logo.svg": "/grabit-frontend/static/media/grabit_logo.dbebf6e74cce1c6bbd084a2b4f7feb8e.svg",
     "index.html": "/grabit-frontend/index.html",
     "main.6810f52f.css.map": "/grabit-frontend/static/css/main.6810f52f.css.map",
-    "main.c26f4418.js.map": "/grabit-frontend/static/js/main.c26f4418.js.map",
+    "main.6689029b.js.map": "/grabit-frontend/static/js/main.6689029b.js.map",
     "453.4e9999d9.chunk.js.map": "/grabit-frontend/static/js/453.4e9999d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6810f52f.css",
-    "static/js/main.c26f4418.js"
+    "static/js/main.6689029b.js"
   ]
 }
