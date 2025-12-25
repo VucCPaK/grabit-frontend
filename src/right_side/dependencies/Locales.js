@@ -4,7 +4,7 @@ export const locales = {
         title2: 'ESports',
         description: {
             line1: 'Meet the platform for ',
-            highlight1: 'competitive CS:GO',
+            highlight1: 'competitive CS2',
             line2: ' tournaments.',
             line3: 'Join players, compete, and ',
             highlight2: 'win prizes',
@@ -23,7 +23,7 @@ export const locales = {
         title2: 'ESports',
         description: {
             line1: 'Познакомьтесь с платформой для ',
-            highlight1: 'соревновательных турниров CS:GO',
+            highlight1: 'соревновательных турниров CS2',
             line2: '.',
             line3: 'Присоединяйтесь, соревнуйтесь и ',
             highlight2: 'выигрывайте призы',
@@ -42,7 +42,7 @@ export const locales = {
         title2: 'ESports',
         description: {
             line1: 'Познайомтеся з платформою для ',
-            highlight1: 'змагальних турнірів CS:GO',
+            highlight1: 'змагальних турнірів CS2',
             line2: '.',
             line3: 'Приєднуйтесь, змагайтесь та ',
             highlight2: 'вигравайте призи',
